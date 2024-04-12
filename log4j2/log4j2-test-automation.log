@@ -1,0 +1,128 @@
+[INFO ] 2024-04-11 17:15:01.845 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-11 17:15:01.904 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-11 17:15:02.374 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 17:15:07.332 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 17:15:07.337 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 17:15:13.406 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-11 17:15:13.441 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 17:15:23.496 [main] Log - The loginWithCredentialsValids Test .... was Failured ...
+[INFO ] 2024-04-11 17:15:23.545 [main] Log - Im on the test TC-Login loginWithCredentialsIncorrects Test .... Starting ...
+[INFO ] 2024-04-11 17:15:23.552 [main] Log - The loginWithCredentialsIncorrects Test .... Skiped ...
+[INFO ] 2024-04-11 17:15:23.586 [main] Log - Im on the test TC-Login loginWithNullCredentials Test .... Starting ...
+[INFO ] 2024-04-11 17:15:23.592 [main] Log - The loginWithNullCredentials Test .... Skiped ...
+[INFO ] 2024-04-11 17:15:23.621 [main] Log - Im on the test TC-Login loginWithUnregisteredEmail Test .... Starting ...
+[INFO ] 2024-04-11 17:15:23.629 [main] Log - The loginWithUnregisteredEmail Test .... Skiped ...
+[INFO ] 2024-04-11 17:15:23.639 [main] Log - Im on the test TC-Login loginWithForgottenPassword Test .... Starting ...
+[INFO ] 2024-04-11 17:15:23.648 [main] Log - The loginWithForgottenPassword Test .... Skiped ...
+[INFO ] 2024-04-11 17:28:11.956 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-11 17:28:12.063 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-11 17:28:12.613 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 17:28:19.549 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 17:28:19.614 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 17:28:20.906 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-11 17:28:20.987 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 17:28:21.523 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-11 17:28:22.346 [main] Log - Assertion to valid correct login
+[INFO ] 2024-04-11 17:28:32.485 [main] Log - The loginWithCredentialsValids Test .... was Failured ...
+[INFO ] 2024-04-11 17:28:32.735 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 17:28:32.749 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 17:28:36.889 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 17:28:36.889 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 17:28:37.968 [main] Log - Im on the test TC-Login loginWithCredentialsIncorrects Test .... Starting ...
+[INFO ] 2024-04-11 17:28:37.972 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 17:28:38.471 [main] Log - Enter the menú Log In and enter incorrect credentials
+[INFO ] 2024-04-11 17:28:39.469 [main] Log - Assertion to valid incorrect login
+[INFO ] 2024-04-11 17:28:39.577 [main] Log - The loginWithCredentialsIncorrects Test .... was Success ...
+[INFO ] 2024-04-11 17:28:39.582 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 17:28:39.627 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 17:28:44.217 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 17:28:44.217 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 17:28:45.236 [main] Log - Im on the test TC-Login loginWithNullCredentials Test .... Starting ...
+[INFO ] 2024-04-11 17:28:45.259 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 17:28:46.576 [main] Log - Enter the menú Log In and click on the LOGIN button
+[INFO ] 2024-04-11 17:28:47.303 [main] Log - Assertion to valid login with Null Credential
+[INFO ] 2024-04-11 17:28:47.403 [main] Log - The loginWithNullCredentials Test .... was Success ...
+[INFO ] 2024-04-11 17:28:47.411 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 17:28:47.456 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 17:28:54.191 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 17:28:54.192 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 17:28:55.009 [main] Log - Im on the test TC-Login loginWithUnregisteredEmail Test .... Starting ...
+[INFO ] 2024-04-11 17:28:55.015 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 17:28:55.986 [main] Log - Enter the menú Log In and register with Unregistered e-mail
+[INFO ] 2024-04-11 17:28:56.919 [main] Log - Assertion to valid login with Unregistered e-mail
+[INFO ] 2024-04-11 17:28:57.589 [main] Log - The loginWithUnregisteredEmail Test .... was Success ...
+[INFO ] 2024-04-11 17:28:57.599 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 17:28:57.606 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 17:29:03.396 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 17:29:03.396 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 17:29:04.354 [main] Log - Im on the test TC-Login loginWithForgottenPassword Test .... Starting ...
+[INFO ] 2024-04-11 17:29:04.359 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 17:29:05.049 [main] Log - Enter the menú Log In to remember password
+[INFO ] 2024-04-11 17:29:05.842 [main] Log - Assertion to valid Forgotten password
+[INFO ] 2024-04-11 17:29:15.864 [main] Log - The loginWithForgottenPassword Test .... was Failured ...
+[INFO ] 2024-04-11 17:29:15.932 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 21:28:19.997 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\loginregistertest.xml
+
+[INFO ] 2024-04-11 21:28:20.436 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-11 21:28:21.248 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 21:28:30.311 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 21:28:30.350 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 21:28:31.734 [main] Log - Im on the test TC-Login loginWithCredentialsIncorrects Test .... Starting ...
+[INFO ] 2024-04-11 21:28:31.855 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 21:28:33.197 [main] Log - Enter the menú Log In and enter incorrect credentials
+[INFO ] 2024-04-11 21:28:34.907 [main] Log - Assertion to valid incorrect login
+[INFO ] 2024-04-11 21:28:35.211 [main] Log - The loginWithCredentialsIncorrects Test .... was Success ...
+[INFO ] 2024-04-11 21:28:35.238 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 21:28:35.263 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 21:28:43.452 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 21:28:43.452 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 21:28:44.477 [main] Log - Im on the test TC-Login loginWithNullCredentials Test .... Starting ...
+[INFO ] 2024-04-11 21:28:44.490 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 21:28:45.560 [main] Log - Enter the menú Log In and click on the LOGIN button
+[INFO ] 2024-04-11 21:28:46.232 [main] Log - Assertion to valid login with Null Credential
+[INFO ] 2024-04-11 21:28:46.270 [main] Log - The loginWithNullCredentials Test .... was Success ...
+[INFO ] 2024-04-11 21:28:46.276 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 21:28:47.277 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-11 21:28:47.300 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 21:28:57.281 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 21:28:57.282 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 21:28:58.394 [main] Log - Im on the test TC-Login registerNewCustomerWithRequiredData Test .... Starting ...
+[INFO ] 2024-04-11 21:29:02.085 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-11 21:29:02.087 [main] Log - Fill out registration form success
+[INFO ] 2024-04-11 21:29:05.331 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-11 21:29:05.847 [main] Log - The registerNewCustomerWithRequiredData Test .... was Success ...
+[INFO ] 2024-04-11 21:29:05.858 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 21:29:05.871 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 21:29:11.609 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 21:29:11.610 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 21:29:12.768 [main] Log - Im on the test TC-Login ValidateEmailFormat Test .... Starting ...
+[INFO ] 2024-04-11 21:29:13.555 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-11 21:29:13.556 [main] Log - Fill out registration form with email no valid
+[INFO ] 2024-04-11 21:29:15.604 [main] Log - Assertion to validate Valid email format
+[INFO ] 2024-04-11 21:29:15.638 [main] Log - The ValidateEmailFormat Test .... was Success ...
+[INFO ] 2024-04-11 21:29:15.640 [main] Log - Closing the driver instance
+[INFO ] 2024-04-11 21:38:18.135 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\Functionals.xml
+
+[INFO ] 2024-04-11 21:38:18.263 [main] Log - Im on the test TC-Login setUp Test .... Starting ...
+[INFO ] 2024-04-11 21:38:18.389 [main] Log - Instantiating Browser
+[INFO ] 2024-04-11 21:38:24.607 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-11 21:38:24.647 [main] Log - Maximize the Page
+[INFO ] 2024-04-11 21:38:26.031 [main] Log - The setUp Test .... was Success ...
+[INFO ] 2024-04-11 21:38:26.050 [main] Log - Im on the test TC-Login loginWithCredentialsIncorrects Test .... Starting ...
+[INFO ] 2024-04-11 21:38:26.068 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 21:38:26.895 [main] Log - Enter the menú Log In and enter incorrect credentials
+[INFO ] 2024-04-11 21:38:27.907 [main] Log - The loginWithCredentialsIncorrects Test .... was Failured ...
+[INFO ] 2024-04-11 21:38:27.917 [main] Log - Im on the test TC-Login loginWithNullCredentials Test .... Starting ...
+[INFO ] 2024-04-11 21:38:27.924 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 21:38:28.516 [main] Log - Enter the menú Log In and click on the LOGIN button
+[INFO ] 2024-04-11 21:38:29.125 [main] Log - The loginWithNullCredentials Test .... was Failured ...
+[INFO ] 2024-04-11 21:38:29.130 [main] Log - Im on the test TC-Login loginWithForgottenPassword Test .... Starting ...
+[INFO ] 2024-04-11 21:38:29.136 [main] Log - Go to Log In page
+[INFO ] 2024-04-11 21:38:29.483 [main] Log - Enter the menú Log In to remember password
+[INFO ] 2024-04-11 21:38:30.482 [main] Log - The loginWithForgottenPassword Test .... was Failured ...

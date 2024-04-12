@@ -1,0 +1,689 @@
+[INFO ] 2024-04-09 08:23:19.098 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 08:23:19.182 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 08:23:19.238 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 08:23:27.009 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 08:23:27.017 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 08:23:28.539 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 08:23:29.220 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 08:23:29.221 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 08:23:31.485 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 08:23:32.316 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 08:45:38.921 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 08:45:38.982 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 08:45:39.027 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 08:45:43.845 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 08:45:43.851 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 08:45:45.293 [main] Log - Starting the test TC-Order-03: modifyQuantityOfProductsInTheCart
+[INFO ] 2024-04-09 08:45:45.294 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 08:45:45.911 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 08:45:46.809 [main] Log - Add products to cart
+[INFO ] 2024-04-09 08:45:51.390 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-09 08:45:52.276 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 08:54:31.985 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 08:54:32.058 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 08:54:32.110 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 08:54:36.851 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 08:54:36.858 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 08:54:38.258 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 08:54:38.818 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 08:54:38.819 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 08:54:41.302 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 08:54:41.872 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 09:03:54.517 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 09:03:54.580 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 09:03:54.633 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 09:03:59.397 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 09:03:59.403 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 09:04:00.754 [main] Log - Starting the test TC-Order-03: modifyQuantityOfProductsInTheCart
+[INFO ] 2024-04-09 09:04:00.755 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 09:04:01.396 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 09:04:02.784 [main] Log - Add products to cart
+[INFO ] 2024-04-09 09:04:07.375 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-09 09:04:08.576 [main] Log - Assertion to valid Increase the quantity of products
+[INFO ] 2024-04-09 09:04:08.786 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 09:09:23.586 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 09:09:23.644 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 09:09:23.689 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 09:09:28.353 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 09:09:28.360 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 09:09:29.545 [main] Log - Starting the test TC-Order-03: modifyQuantityOfProductsInTheCart
+[INFO ] 2024-04-09 09:09:29.545 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 09:09:30.349 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 09:09:31.456 [main] Log - Add products to cart
+[INFO ] 2024-04-09 09:09:37.395 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-09 09:09:38.752 [main] Log - Reduce the quantity of products
+[INFO ] 2024-04-09 09:09:39.945 [main] Log - Assertion to valid Increase the quantity of products
+[INFO ] 2024-04-09 09:09:50.120 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 09:14:56.339 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 09:14:56.426 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 09:14:56.471 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 09:15:01.281 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 09:15:01.291 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 09:15:02.485 [main] Log - Starting the test TC-Order-03: modifyQuantityOfProductsInTheCart
+[INFO ] 2024-04-09 09:15:02.485 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 09:15:03.122 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 09:15:04.595 [main] Log - Add products to cart
+[INFO ] 2024-04-09 09:15:09.782 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-09 09:15:11.287 [main] Log - Reduce the quantity of products
+[INFO ] 2024-04-09 09:15:12.691 [main] Log - Assertion to valid Increase the quantity of products
+[INFO ] 2024-04-09 09:15:12.906 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 09:18:36.420 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 09:18:36.478 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 09:18:36.523 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 09:18:41.966 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 09:18:41.972 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 09:18:43.437 [main] Log - Starting the test TC-Order-03: modifyQuantityOfProductsInTheCart
+[INFO ] 2024-04-09 09:18:43.438 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 09:18:44.163 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 09:18:45.502 [main] Log - Add products to cart
+[INFO ] 2024-04-09 09:18:50.595 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-09 09:18:51.710 [main] Log - Reduce the quantity of products
+[INFO ] 2024-04-09 09:18:52.335 [main] Log - Assertion to valid reduce the quantity of products
+[INFO ] 2024-04-09 09:18:52.518 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 15:28:52.448 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 15:28:52.518 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 15:28:52.573 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 15:29:00.733 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 15:29:00.738 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 15:29:02.431 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 15:29:03.087 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 15:29:03.088 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 15:29:05.582 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 15:29:06.256 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 15:53:55.050 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 15:53:55.143 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 15:53:55.204 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 15:54:01.824 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 15:54:01.829 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 15:54:03.089 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 15:54:03.585 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 15:54:03.586 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 15:54:05.443 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 15:54:06.154 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 15:56:29.639 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-09 15:56:29.707 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 15:56:29.762 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 15:56:34.578 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 15:56:34.587 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 15:57:07.371 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 15:57:07.438 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 15:57:07.491 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 15:57:12.263 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 15:57:12.269 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:34:13.539 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 16:34:13.605 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 16:34:13.668 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 16:34:20.361 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 16:34:20.366 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:34:21.681 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 16:34:22.154 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 16:34:22.154 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 16:34:24.009 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 16:34:24.637 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 16:36:30.836 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 16:36:30.894 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 16:36:30.939 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 16:36:35.497 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 16:36:35.506 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:54:16.654 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 16:54:16.707 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 16:54:16.752 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 16:54:21.510 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 16:54:21.516 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:54:22.885 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 16:54:22.885 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 16:54:23.425 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 16:54:42.122 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 16:54:42.190 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 16:54:42.247 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 16:54:46.919 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 16:54:46.927 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:54:47.900 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 16:54:48.418 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 16:54:48.419 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 16:54:50.882 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 16:54:51.396 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 16:55:36.097 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 16:55:36.153 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 16:55:36.198 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 16:55:40.770 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 16:55:40.777 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:55:41.691 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 16:55:41.691 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 16:55:42.270 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 16:57:47.949 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 16:57:48.012 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 16:57:48.064 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 16:57:52.521 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 16:57:52.526 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 16:57:53.654 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 16:57:53.654 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 16:57:54.342 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 16:57:55.242 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 17:18:24.721 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 17:18:24.786 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:18:24.851 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:18:29.730 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:18:29.740 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:18:30.923 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 17:18:30.923 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 17:18:31.498 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 17:18:32.602 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 17:18:32.755 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 17:26:04.667 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\reporttest.xml
+
+[INFO ] 2024-04-09 17:26:04.740 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:26:04.788 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:26:09.486 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:26:09.493 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:37:50.022 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 17:37:50.077 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:37:50.120 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:37:54.693 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:37:54.699 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:39:57.079 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-09 17:39:57.131 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:39:57.172 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:40:01.727 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:40:01.734 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:40:02.625 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 17:40:02.627 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 17:40:03.358 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 17:40:34.960 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 17:40:35.019 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:40:35.069 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:40:39.541 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:40:39.547 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:40:40.468 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 17:40:41.136 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 17:40:41.138 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 17:40:42.946 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 17:40:43.400 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 17:41:41.787 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-09 17:41:41.844 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:41:41.885 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:41:46.508 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:41:46.514 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:41:47.428 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 17:41:47.428 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 17:41:48.154 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 17:42:16.394 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 17:42:16.455 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:42:16.508 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:42:21.066 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:42:21.072 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:42:22.016 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 17:42:22.016 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 17:42:22.581 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 17:49:38.694 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 17:49:38.752 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 17:49:39.110 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 17:49:43.643 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 17:49:43.649 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 17:49:44.686 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 17:49:44.686 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 17:49:45.379 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 17:49:46.313 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 17:49:46.466 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:11:03.422 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 18:11:03.481 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:11:03.848 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:11:08.628 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:11:08.634 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:11:09.775 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:12:14.915 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-09 18:12:14.969 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:12:15.313 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:12:19.961 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:12:19.968 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:12:20.941 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 18:12:20.941 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:12:21.707 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 18:12:22.759 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 18:12:22.928 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:14:40.499 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 18:14:40.568 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:14:40.939 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:14:45.411 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:14:45.417 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:14:46.336 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 18:14:46.337 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:14:46.869 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 18:14:48.062 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 18:14:48.241 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:16:43.200 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 18:16:43.251 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:16:43.594 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:16:48.530 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:16:48.536 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:16:49.820 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 18:16:49.820 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:16:50.580 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 18:16:51.666 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 18:16:51.801 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:31:39.328 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\logintest.xml
+
+[INFO ] 2024-04-09 18:31:39.386 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:31:39.749 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:31:44.718 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:31:44.722 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:31:45.937 [main] Log - Starting the test TC-Login-01: loginWithCredentialsValids
+[INFO ] 2024-04-09 18:31:45.938 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:31:46.662 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 18:31:47.775 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 18:31:47.924 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:31:47.938 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:31:52.223 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:31:52.223 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:31:53.293 [main] Log - Starting the test TC-Login-02: loginWithCredentialsIncorrects
+[INFO ] 2024-04-09 18:31:53.294 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:31:54.143 [main] Log - Enter the menú Log In and enter incorrect credentials
+[INFO ] 2024-04-09 18:31:55.171 [main] Log - Assertion to valid login correcto
+[INFO ] 2024-04-09 18:31:55.267 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:31:55.271 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:32:00.520 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:32:00.520 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:32:01.316 [main] Log - Starting the test TC-Login-03: loginWithNullCredentials
+[INFO ] 2024-04-09 18:32:01.317 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:32:02.256 [main] Log - Enter the menú Log In and click on the LOGIN button
+[INFO ] 2024-04-09 18:32:02.873 [main] Log - Assertion to valid login with Null Credential
+[INFO ] 2024-04-09 18:32:02.906 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:32:02.922 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:32:07.928 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:32:07.929 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:32:08.951 [main] Log - Starting the test TC-Login-04: loginWithUnregisteredEmail
+[INFO ] 2024-04-09 18:32:08.951 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:32:09.829 [main] Log - Enter the menú Log In and register with Unregistered e-mail
+[INFO ] 2024-04-09 18:32:10.373 [main] Log - Assertion to valid login with Null Credential
+[INFO ] 2024-04-09 18:32:10.573 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:32:10.617 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:32:18.817 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:32:18.817 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:32:19.698 [main] Log - Starting the test TC-Login-05: loginWithForgottenPassword
+[INFO ] 2024-04-09 18:32:19.698 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 18:32:20.929 [main] Log - Enter the menú Log In to remember password
+[INFO ] 2024-04-09 18:32:22.415 [main] Log - Assertion to valid Forgotten password
+[INFO ] 2024-04-09 18:32:32.614 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:40:21.546 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\registertest.xml
+
+[INFO ] 2024-04-09 18:40:21.623 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:40:22.222 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:40:28.871 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:40:28.905 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:40:30.068 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 18:40:30.598 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:40:30.598 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 18:40:32.881 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 18:40:33.585 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:40:33.596 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:40:37.422 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:40:37.423 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:40:38.250 [main] Log - Starting the test TC-Register-02: registerNewCustomerWithoutMandatoryFields
+[INFO ] 2024-04-09 18:40:38.816 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:40:38.816 [main] Log - Fill out registration form Without Mandatory Fields
+[INFO ] 2024-04-09 18:40:40.431 [main] Log - Assertion to validate register without mandatory fields
+[INFO ] 2024-04-09 18:40:40.467 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:40:40.474 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:40:44.702 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:40:44.702 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:40:45.558 [main] Log - Starting the test TC-Register-03: ValidateEmailFormat
+[INFO ] 2024-04-09 18:40:46.342 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:40:46.343 [main] Log - Fill out registration form with email no valid
+[INFO ] 2024-04-09 18:40:48.430 [main] Log - Assertion to validate Valid email format
+[INFO ] 2024-04-09 18:40:48.462 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:40:48.466 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:40:52.621 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:40:52.622 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:40:53.511 [main] Log - Starting the test TC-Register-04: ValidateSecurePassword
+[INFO ] 2024-04-09 18:40:54.037 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:40:54.038 [main] Log - Fill out registration form whith password no secure
+[INFO ] 2024-04-09 18:40:56.162 [main] Log - Assertion to validate secure password
+[INFO ] 2024-04-09 18:40:56.188 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:40:56.192 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:41:01.308 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:41:01.309 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:41:02.326 [main] Log - Starting the test TC-Register-05: ValidateConfirmationPassword
+[INFO ] 2024-04-09 18:41:02.834 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:41:02.835 [main] Log - Fill out registration form to confirmation password
+[INFO ] 2024-04-09 18:41:04.660 [main] Log - Assertion to validate password null
+[INFO ] 2024-04-09 18:41:04.692 [main] Log - Assertion to validate Valid Confirmation password
+[INFO ] 2024-04-09 18:41:04.725 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:41:04.731 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:41:10.278 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:41:10.278 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:41:11.429 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 18:41:12.924 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:41:12.925 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 18:41:15.006 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 18:41:25.672 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:55:40.265 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 18:55:40.326 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:55:40.751 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:55:46.457 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:55:46.464 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:55:47.816 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 18:55:48.365 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:55:48.366 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 18:55:50.255 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 18:55:50.679 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:57:15.242 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\registertest.xml
+
+[INFO ] 2024-04-09 18:57:15.326 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 18:57:15.693 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:57:20.736 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:57:20.744 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:57:21.861 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 18:57:22.739 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:57:22.740 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 18:57:24.986 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 18:57:25.566 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:57:25.581 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:57:30.302 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:57:30.302 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:57:31.139 [main] Log - Starting the test TC-Register-02: registerNewCustomerWithoutMandatoryFields
+[INFO ] 2024-04-09 18:57:31.619 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:57:31.620 [main] Log - Fill out registration form Without Mandatory Fields
+[INFO ] 2024-04-09 18:57:33.222 [main] Log - Assertion to validate register without mandatory fields
+[INFO ] 2024-04-09 18:57:33.271 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:57:33.279 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:57:37.772 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:57:37.772 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:57:39.023 [main] Log - Starting the test TC-Register-03: ValidateEmailFormat
+[INFO ] 2024-04-09 18:57:39.660 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:57:39.661 [main] Log - Fill out registration form with email no valid
+[INFO ] 2024-04-09 18:57:41.969 [main] Log - Assertion to validate Valid email format
+[INFO ] 2024-04-09 18:57:42.007 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:57:42.011 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:57:46.609 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:57:46.610 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:57:47.673 [main] Log - Starting the test TC-Register-04: ValidateSecurePassword
+[INFO ] 2024-04-09 18:57:48.368 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:57:48.369 [main] Log - Fill out registration form whith password no secure
+[INFO ] 2024-04-09 18:57:50.294 [main] Log - Assertion to validate secure password
+[INFO ] 2024-04-09 18:57:50.322 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:57:50.335 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:57:54.949 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:57:54.950 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:57:55.939 [main] Log - Starting the test TC-Register-05: ValidateConfirmationPassword
+[INFO ] 2024-04-09 18:57:56.587 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:57:56.588 [main] Log - Fill out registration form to confirmation password
+[INFO ] 2024-04-09 18:57:58.336 [main] Log - Assertion to validate password null
+[INFO ] 2024-04-09 18:57:58.359 [main] Log - Assertion to validate Valid Confirmation password
+[INFO ] 2024-04-09 18:57:58.378 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 18:57:58.382 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 18:58:03.387 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 18:58:03.387 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 18:58:04.483 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 18:58:05.268 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 18:58:05.268 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 18:58:07.251 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 18:58:07.621 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 19:22:40.244 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\ordertest.xml
+
+[INFO ] 2024-04-09 19:22:40.315 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 19:22:40.707 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 19:22:46.588 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 19:22:46.594 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 19:22:48.206 [main] Log - Starting the test TC-Order-01: AddProductsToShoppingCart
+[INFO ] 2024-04-09 19:22:48.206 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 19:22:48.946 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 19:22:49.788 [main] Log - Add products to cart
+[INFO ] 2024-04-09 19:22:54.193 [main] Log - Assertion to valid Add products to cart
+[INFO ] 2024-04-09 19:22:54.284 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 19:22:54.298 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 19:22:59.468 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 19:22:59.469 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 19:23:00.488 [main] Log - Starting the test TC-Order-02: removeProductsFromToShoppingCart
+[INFO ] 2024-04-09 19:23:00.489 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 19:23:01.194 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 19:23:02.089 [main] Log - Add products to cart
+[INFO ] 2024-04-09 19:23:07.106 [main] Log - Remove products to cart
+[INFO ] 2024-04-09 19:23:08.798 [main] Log - Assertion to valid Remove products from shopping cart
+[INFO ] 2024-04-09 19:23:09.004 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 19:23:09.010 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 19:23:13.985 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 19:23:13.986 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 19:23:15.385 [main] Log - Starting the test TC-Order-03: modifyQuantityOfProductsInTheCart
+[INFO ] 2024-04-09 19:23:15.385 [main] Log - Go to Log In page
+[INFO ] 2024-04-09 19:23:16.675 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-09 19:23:17.819 [main] Log - Add products to cart
+[INFO ] 2024-04-09 19:23:22.898 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-09 19:23:24.421 [main] Log - Reduce the quantity of products
+[INFO ] 2024-04-09 19:23:25.119 [main] Log - Assertion to valid reduce the quantity of products
+[INFO ] 2024-04-09 19:23:25.218 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:38:36.694 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:38:36.797 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:38:37.338 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:38:45.259 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:38:45.295 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:38:46.796 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 21:38:47.401 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:38:47.402 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 21:38:49.625 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 21:38:50.412 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:41:15.333 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:41:15.401 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:41:15.747 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:41:20.327 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:41:20.334 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:41:21.911 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 21:41:22.723 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:41:22.724 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 21:41:24.852 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 21:41:34.978 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:43:54.501 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:43:54.566 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:43:54.902 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:43:59.932 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:43:59.939 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:44:01.630 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 21:44:02.414 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:44:02.415 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 21:44:04.374 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 21:44:14.997 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:44:52.343 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:44:52.411 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:44:52.757 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:44:57.449 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:44:57.456 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:44:58.502 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 21:44:59.159 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:44:59.160 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 21:45:01.611 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 21:45:02.157 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:47:07.258 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:47:07.322 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:47:07.664 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:47:12.533 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:47:12.539 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:47:13.795 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 21:47:14.393 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:47:14.394 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 21:47:16.646 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 21:47:17.242 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:48:00.592 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:48:00.656 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:48:01.037 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:48:05.940 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:48:05.947 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:48:07.464 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 21:48:08.345 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:48:08.346 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 21:48:10.258 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 21:48:17.234 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:49:08.246 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:49:08.311 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:49:08.651 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:49:13.319 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:49:13.325 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:49:14.710 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 21:49:15.549 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:49:15.550 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 21:49:17.810 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 21:49:18.328 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:49:53.798 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:49:53.863 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:49:54.209 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:49:59.006 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:49:59.013 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:50:00.001 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 21:50:00.640 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:50:00.640 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 21:50:02.454 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 21:50:06.564 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:53:31.668 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:53:31.731 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:53:32.098 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:53:37.060 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:53:37.067 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:53:38.310 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 21:53:38.953 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:53:38.954 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 21:53:41.170 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 21:53:41.969 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 21:54:20.663 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-09 21:54:20.734 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 21:54:21.099 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 21:54:27.594 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 21:54:27.600 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 21:54:29.038 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 21:54:29.645 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 21:54:29.645 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 21:54:31.756 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 21:54:32.342 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 22:00:05.840 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\1 SELENIUM WEBDRIVER & GRID\PracticaCommerce\testng\registertest.xml
+
+[INFO ] 2024-04-09 22:00:05.899 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-09 22:00:06.304 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 22:00:11.727 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 22:00:11.738 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 22:00:13.198 [main] Log - Starting the test TC-Register-01: registerNewCustomerWithRequiredData
+[INFO ] 2024-04-09 22:00:14.185 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 22:00:14.186 [main] Log - Fill out registration form success
+[INFO ] 2024-04-09 22:00:16.606 [main] Log - Assertion to validate correct registration
+[INFO ] 2024-04-09 22:00:26.972 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 22:00:26.988 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 22:00:33.318 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 22:00:33.318 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 22:00:34.086 [main] Log - Starting the test TC-Register-02: registerNewCustomerWithoutMandatoryFields
+[INFO ] 2024-04-09 22:00:34.809 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 22:00:34.810 [main] Log - Fill out registration form Without Mandatory Fields
+[INFO ] 2024-04-09 22:00:36.624 [main] Log - Assertion to validate register without mandatory fields
+[INFO ] 2024-04-09 22:00:36.671 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 22:00:36.676 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 22:00:43.330 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 22:00:43.331 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 22:00:44.451 [main] Log - Starting the test TC-Register-03: ValidateEmailFormat
+[INFO ] 2024-04-09 22:00:45.592 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 22:00:45.597 [main] Log - Fill out registration form with email no valid
+[INFO ] 2024-04-09 22:00:47.950 [main] Log - Assertion to validate Valid email format
+[INFO ] 2024-04-09 22:00:48.027 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 22:00:48.034 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 22:00:53.616 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 22:00:53.617 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 22:00:54.710 [main] Log - Starting the test TC-Register-04: ValidateSecurePassword
+[INFO ] 2024-04-09 22:00:55.547 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 22:00:55.549 [main] Log - Fill out registration form whith password no secure
+[INFO ] 2024-04-09 22:00:58.114 [main] Log - Assertion to validate secure password
+[INFO ] 2024-04-09 22:00:58.149 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 22:00:58.157 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 22:01:04.683 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 22:01:04.683 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 22:01:05.886 [main] Log - Starting the test TC-Register-05: ValidateConfirmationPassword
+[INFO ] 2024-04-09 22:01:06.795 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 22:01:06.795 [main] Log - Fill out registration form to confirmation password
+[INFO ] 2024-04-09 22:01:08.638 [main] Log - Assertion to validate password null
+[INFO ] 2024-04-09 22:01:08.665 [main] Log - Assertion to validate Valid Confirmation password
+[INFO ] 2024-04-09 22:01:08.686 [main] Log - Closing the driver instance
+[INFO ] 2024-04-09 22:01:08.692 [main] Log - Instantiating Browser
+[INFO ] 2024-04-09 22:01:16.176 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-09 22:01:16.176 [main] Log - Maximize the Page
+[INFO ] 2024-04-09 22:01:16.965 [main] Log - Starting the test TC-Register-06: ValidateRegisterWhitUniqueEmail
+[INFO ] 2024-04-09 22:01:18.019 [main] Log - Enter the menú Register and fill Out Form
+[INFO ] 2024-04-09 22:01:18.026 [main] Log - Fill out registration form whit unique email
+[INFO ] 2024-04-09 22:01:20.056 [main] Log - Assertion to validate register Whit unique email
+[INFO ] 2024-04-09 22:01:20.578 [main] Log - Closing the driver instance

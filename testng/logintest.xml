@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Nop Commerce">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.commerce.tests.LoginTest">
+                <methods>
+                    <include name="loginWithCredentialsValids"></include>
+                    <include name="loginWithCredentialsIncorrects"></include>
+                    <include name="loginWithNullCredentials"></include>
+                    <include name="loginWithUnregisteredEmail"></include>
+                    <include name="loginWithForgottenPassword"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

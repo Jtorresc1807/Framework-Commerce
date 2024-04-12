@@ -1,0 +1,1 @@
+{"uuid":"1cbd6310-40e2-44ad-9971-1befedf88927","name":"PracticaCommerce","children":["b6556926-1f23-4c35-a792-68838a2f7ac2"],"befores":[{"name":"loadSettings","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712191744824,"stop":1712191744837}],"afters":[],"start":1712191744786,"stop":1712191751532}
