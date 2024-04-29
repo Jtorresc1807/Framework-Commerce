@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Nop Commerce">
+    <listeners>
+                <listener class-name="com.commerce.listeners.AnnotationTransformer"></listener>
+    </listeners>
+
     <test name="Login Tests">
         <classes>
             <class name="com.commerce.tests.LoginTest">
@@ -10,6 +14,8 @@
                     <include name="loginWithNullCredentials"></include>
                     <include name="loginWithUnregisteredEmail"></include>
                     <include name="loginWithForgottenPassword"></include>
+                    <include name="doLoginE"></include>
+                    <include name="doLoginJ"></include>
                 </methods>
             </class>
         </classes>

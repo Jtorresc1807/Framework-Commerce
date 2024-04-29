@@ -1,0 +1,341 @@
+[INFO ] 2024-04-27 19:09:43.374 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 19:09:43.449 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 19:09:43.449 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 19:09:43.449 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 19:11:03.428 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 19:11:03.865 [main] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 19:11:03.884 [main] Log - The AddProductsToShoppingCart Test .... Skiped ...
+[INFO ] 2024-04-27 19:12:14.695 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 19:12:15.088 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 19:12:15.122 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 19:43:48.283 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 19:43:48.394 [main] Log - Setup browser ... "chrome", "firefox", "edge"
+[INFO ] 2024-04-27 19:43:48.395 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 19:43:48.702 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 19:43:48.717 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 19:44:54.315 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 19:44:54.394 [main] Log - Setup browser ... "chrome"
+[INFO ] 2024-04-27 19:44:54.395 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 19:44:54.694 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 19:44:54.753 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 19:45:52.687 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 19:45:53.059 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 19:45:53.083 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 19:56:37.826 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 19:56:38.330 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 19:56:38.366 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 20:06:40.805 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:06:40.899 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 20:06:41.703 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 20:06:41.711 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 20:06:51.423 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 20:06:51.454 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 20:06:51.464 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 20:06:53.429 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:06:53.583 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 20:06:53.586 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 20:06:55.001 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 20:06:55.002 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 20:06:56.022 [main] Log - Entering your profile
+[INFO ] 2024-04-27 20:07:01.241 [main] Log - The loginWithCredentialsValids Test .... was Failured ...
+[INFO ] 2024-04-27 20:07:01.264 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 20:10:16.825 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:10:17.210 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:10:17.233 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 20:18:19.512 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:18:19.930 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:18:19.950 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 20:20:36.371 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:20:36.480 [main] Log - Setup browser ... 
+[INFO ] 2024-04-27 20:20:36.481 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 20:20:36.771 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:20:36.827 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 20:31:31.767 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:31:31.873 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 20:31:32.446 [main] Log - Setup browser ... 
+[INFO ] 2024-04-27 20:31:32.630 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:31:32.641 [main] Log - The loginWithCredentialsValids Test .... Skiped ...
+[INFO ] 2024-04-27 20:41:26.769 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:41:26.834 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 20:41:27.210 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 20:41:27.216 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 20:41:33.174 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 20:41:33.209 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 20:41:33.214 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 20:41:34.720 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:41:34.807 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 20:41:34.808 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 20:41:35.671 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 20:41:35.673 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 20:41:36.599 [main] Log - Entering your profile
+[INFO ] 2024-04-27 20:41:41.697 [main] Log - The loginWithCredentialsValids Test .... was Failured ...
+[INFO ] 2024-04-27 20:41:41.716 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 20:49:23.275 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 20:49:23.356 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 20:49:23.358 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 20:49:23.358 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 20:49:55.476 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 20:49:55.547 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 20:49:56.285 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 20:49:56.289 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 20:50:02.661 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 20:50:02.694 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 20:50:02.711 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 20:50:04.352 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 20:50:04.506 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 20:50:04.507 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 20:50:05.766 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 20:50:05.769 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 20:50:06.860 [main] Log - Entering your profile
+[INFO ] 2024-04-27 20:50:12.100 [main] Log - The loginWithCredentialsValids Test .... was Failured ...
+[INFO ] 2024-04-27 20:50:12.117 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 20:54:09.077 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 20:54:09.150 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 20:54:09.152 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 20:54:09.152 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 21:43:09.474 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 21:43:09.584 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 21:43:10.221 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 21:43:10.225 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 21:43:15.911 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 21:43:15.949 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 21:43:15.955 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 21:43:17.321 [main] Log - Im on the test TC-Login loginWithCredentialsValids Test .... Starting ...
+[INFO ] 2024-04-27 21:43:17.485 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 21:43:17.488 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 21:43:18.381 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 21:43:18.384 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 21:43:19.228 [main] Log - Entering your profile
+[INFO ] 2024-04-27 21:43:24.343 [main] Log - The loginWithCredentialsValids Test .... was Failured ...
+[INFO ] 2024-04-27 21:43:24.356 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 21:47:26.886 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 21:47:26.973 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 21:47:26.973 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 21:47:26.974 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 21:51:15.949 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 21:51:15.997 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 21:51:15.997 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 21:51:16.000 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 21:52:07.193 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 21:52:07.369 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 21:52:07.372 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 21:52:07.373 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 22:03:02.566 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 22:03:02.643 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 22:03:02.643 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 22:03:02.645 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 22:13:28.521 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 22:13:28.560 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 22:13:28.560 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 22:13:28.560 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 22:17:02.777 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 22:17:02.821 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 22:17:02.821 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 22:17:02.825 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 22:20:51.586 [main] Utils - [TestNG] Running:
+  D:\Curso QA SOFTWARE AUTOMATION TESTER\SELENIUM WEBDRIVER and GRID\PracticaCommerce\testng\testngdocker.xml
+
+[INFO ] 2024-04-27 22:20:51.632 [TestNG-tests-2] Log - I am in onStart method Test on Chrome
+[INFO ] 2024-04-27 22:20:51.632 [TestNG-tests-3] Log - I am in onStart method Test on Edge
+[INFO ] 2024-04-27 22:20:51.633 [TestNG-tests-1] Log - I am in onStart method Test on Firefox
+[INFO ] 2024-04-27 22:20:51.695 [TestNG-tests-1] Log - Setup browser ... firefox
+[INFO ] 2024-04-27 22:20:51.695 [TestNG-tests-2] Log - Setup browser ... chrome
+[INFO ] 2024-04-27 22:20:51.695 [TestNG-tests-3] Log - Setup browser ... edge
+[INFO ] 2024-04-27 22:21:01.282 [TestNG-tests-2] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:21:01.286 [TestNG-tests-2] Log - Maximize the Page
+[INFO ] 2024-04-27 22:21:03.749 [TestNG-tests-3] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:21:03.750 [TestNG-tests-3] Log - Maximize the Page
+[INFO ] 2024-04-27 22:21:04.003 [TestNG-tests-2] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:21:04.082 [TestNG-tests-2] Log - AddProductsToShoppingCart test is Starting.
+[INFO ] 2024-04-27 22:21:04.087 [TestNG-tests-2] Log - Go to Log In page
+[INFO ] 2024-04-27 22:21:04.087 [TestNG-tests-2] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:21:05.772 [TestNG-tests-2] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:21:05.773 [TestNG-tests-2] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:21:06.260 [TestNG-tests-3] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:21:06.271 [TestNG-tests-3] Log - AddProductsToShoppingCart test is Starting.
+[INFO ] 2024-04-27 22:21:06.277 [TestNG-tests-3] Log - Go to Log In page
+[INFO ] 2024-04-27 22:21:06.277 [TestNG-tests-3] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:21:07.740 [TestNG-tests-2] Log - Entering your profile
+[INFO ] 2024-04-27 22:21:07.741 [TestNG-tests-2] Log - Add products to cart
+[INFO ] 2024-04-27 22:21:07.741 [TestNG-tests-2] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:21:08.129 [TestNG-tests-1] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:21:08.130 [TestNG-tests-1] Log - Maximize the Page
+[INFO ] 2024-04-27 22:21:08.837 [TestNG-tests-3] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:21:08.837 [TestNG-tests-3] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:21:10.119 [TestNG-tests-1] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:21:10.129 [TestNG-tests-1] Log - AddProductsToShoppingCart test is Starting.
+[INFO ] 2024-04-27 22:21:10.129 [TestNG-tests-1] Log - Go to Log In page
+[INFO ] 2024-04-27 22:21:10.130 [TestNG-tests-1] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:21:11.504 [TestNG-tests-3] Log - Entering your profile
+[INFO ] 2024-04-27 22:21:11.505 [TestNG-tests-3] Log - Add products to cart
+[INFO ] 2024-04-27 22:21:11.506 [TestNG-tests-3] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:21:12.495 [TestNG-tests-1] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:21:12.496 [TestNG-tests-1] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:21:14.921 [TestNG-tests-1] Log - Entering your profile
+[INFO ] 2024-04-27 22:21:14.922 [TestNG-tests-1] Log - Add products to cart
+[INFO ] 2024-04-27 22:21:14.922 [TestNG-tests-1] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:21:21.898 [TestNG-tests-2] Log - AddProductsToShoppingCart test is Succeed.
+[INFO ] 2024-04-27 22:21:22.880 [TestNG-tests-2] Log - AddProductsToShoppingCart test is failed.
+[INFO ] 2024-04-27 22:21:22.885 [TestNG-tests-2] Log - I am in onFinish method Test on Chrome
+[INFO ] 2024-04-27 22:21:26.200 [TestNG-tests-3] Log - AddProductsToShoppingCart test is Succeed.
+[INFO ] 2024-04-27 22:21:26.201 [TestNG-tests-3] Log - AddProductsToShoppingCart test is failed.
+[INFO ] 2024-04-27 22:21:26.202 [TestNG-tests-3] Log - I am in onFinish method Test on Edge
+[INFO ] 2024-04-27 22:21:29.360 [TestNG-tests-1] Log - AddProductsToShoppingCart test is Succeed.
+[INFO ] 2024-04-27 22:21:29.361 [TestNG-tests-1] Log - AddProductsToShoppingCart test is failed.
+[INFO ] 2024-04-27 22:21:29.361 [TestNG-tests-1] Log - I am in onFinish method Test on Firefox
+[INFO ] 2024-04-27 22:27:34.237 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 22:27:34.553 [main] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:27:34.571 [main] Log - The AddProductsToShoppingCart Test .... Skiped ...
+[INFO ] 2024-04-27 22:27:59.588 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 22:27:59.647 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 22:28:00.202 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 22:28:00.205 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:28:05.242 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:28:05.248 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:28:05.253 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:28:06.409 [main] Log - Im on the test TC-Login setUp Test .... Starting ...
+[INFO ] 2024-04-27 22:28:06.511 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 22:28:06.512 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:28:09.745 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:28:09.745 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:28:09.746 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:28:10.783 [main] Log - The setUp Test .... was Success ...
+[INFO ] 2024-04-27 22:28:10.791 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 22:28:12.163 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 22:28:12.164 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:28:15.562 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:28:15.563 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:28:15.563 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:28:16.605 [main] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:28:16.621 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 22:28:16.622 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:28:17.448 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:28:17.449 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:28:18.135 [main] Log - Entering your profile
+[INFO ] 2024-04-27 22:28:18.135 [main] Log - Add products to cart
+[INFO ] 2024-04-27 22:28:18.136 [main] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:28:23.566 [main] Log - The AddProductsToShoppingCart Test .... was Success ...
+[INFO ] 2024-04-27 22:28:23.569 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 22:28:24.606 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 22:28:24.606 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:28:27.597 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:28:27.598 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:28:27.598 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:28:28.802 [main] Log - Im on the test TC-Login removeProductsFromToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:28:28.822 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 22:28:28.822 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:28:29.625 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:28:29.625 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:28:30.348 [main] Log - Entering your profile
+[INFO ] 2024-04-27 22:28:30.348 [main] Log - Add products to cart
+[INFO ] 2024-04-27 22:28:30.348 [main] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:28:35.728 [main] Log - Remove products to cart
+[INFO ] 2024-04-27 22:28:35.728 [main] Log - Remove Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:28:38.161 [main] Log - The removeProductsFromToShoppingCart Test .... was Success ...
+[INFO ] 2024-04-27 22:28:38.164 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 22:28:39.213 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 22:28:39.213 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:28:42.411 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:28:42.411 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:28:42.412 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:28:43.390 [main] Log - Im on the test TC-Login modifyQuantityOfProductsInTheCart Test .... Starting ...
+[INFO ] 2024-04-27 22:28:43.398 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 22:28:43.399 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:28:44.364 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:28:44.364 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:28:45.150 [main] Log - Entering your profile
+[INFO ] 2024-04-27 22:28:45.151 [main] Log - Add products to cart
+[INFO ] 2024-04-27 22:28:45.151 [main] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:28:50.593 [main] Log - Increase the quantity of products
+[INFO ] 2024-04-27 22:28:50.594 [main] Log - Increase Quantity Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:28:51.817 [main] Log - Reduce the quantity of products
+[INFO ] 2024-04-27 22:28:51.819 [main] Log - Reduce Quantity Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:28:53.208 [main] Log - The modifyQuantityOfProductsInTheCart Test .... was Success ...
+[INFO ] 2024-04-27 22:28:53.216 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 22:28:54.488 [main] Log - Run Browser withuot UI
+[INFO ] 2024-04-27 22:28:54.488 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:28:57.732 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:28:57.733 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:28:57.734 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:28:58.722 [main] Log - Im on the test TC-Login makeOrderCreationSuccessful Test .... Starting ...
+[INFO ] 2024-04-27 22:28:58.754 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 22:28:58.754 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:28:59.724 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:28:59.724 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:29:00.470 [main] Log - Entering your profile
+[INFO ] 2024-04-27 22:29:00.471 [main] Log - Add products to cart
+[INFO ] 2024-04-27 22:29:00.472 [main] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:29:06.016 [main] Log - Do Checkout to products
+[INFO ] 2024-04-27 22:29:06.017 [main] Log - order Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:29:07.217 [main] Log - Fill Out Form Billing Address
+[INFO ] 2024-04-27 22:29:07.219 [main] Log - Fill out form to order Ckechout Billing Address on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:29:17.820 [main] Log - The makeOrderCreationSuccessful Test .... was Failured ...
+[INFO ] 2024-04-27 22:29:17.832 [main] Log - Tests are ending ... 
+[INFO ] 2024-04-27 22:30:58.264 [main] Utils - [TestNG] Running:
+  C:\Users\JAIME TORRES\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-04-27 22:30:58.339 [main] Log - Loading Base Url for all testing
+[INFO ] 2024-04-27 22:30:58.796 [main] Log - Instantiating Browser
+[INFO ] 2024-04-27 22:31:04.353 [main] Log - Initializing Page Object Model
+[INFO ] 2024-04-27 22:31:04.362 [main] Log - Opening Nop Commerce Web.
+[INFO ] 2024-04-27 22:31:04.368 [main] Log - Maximize the Page
+[INFO ] 2024-04-27 22:31:05.726 [main] Log - Im on the test TC-Login AddProductsToShoppingCart Test .... Starting ...
+[INFO ] 2024-04-27 22:31:05.887 [main] Log - Go to Log In page
+[INFO ] 2024-04-27 22:31:05.888 [main] Log - Going to SingIn menu option
+[INFO ] 2024-04-27 22:31:06.973 [main] Log - Enter the menú Log In and enter valid credentials
+[INFO ] 2024-04-27 22:31:06.976 [main] Log - Login on Nop Commerce Web with Email :By.id: Email Password :By.id: Password
+[INFO ] 2024-04-27 22:31:08.176 [main] Log - Entering your profile
+[INFO ] 2024-04-27 22:31:08.178 [main] Log - Add products to cart
+[INFO ] 2024-04-27 22:31:08.178 [main] Log - Add Products To Cart on Nop Commerce Web with Data Provider.
+[INFO ] 2024-04-27 22:31:15.043 [main] Log - The AddProductsToShoppingCart Test .... was Success ...
+[INFO ] 2024-04-27 22:31:15.050 [main] Log - Tests are ending ... 

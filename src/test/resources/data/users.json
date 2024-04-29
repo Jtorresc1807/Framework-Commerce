@@ -1,0 +1,14 @@
+{
+  "users":[
+    {
+      "username": "ysan@hotmail.com",
+      "password": "&J*$W23K^g5R",
+      "message": "Welcome to our store"
+    },
+    {
+      "username": "malbgmail.qom",
+      "password": "&J*$W54K^g5R",
+      "message": "Login was unsuccessful. Please correct the errors and try again.\nNo customer account found"
+    }
+  ]
+}

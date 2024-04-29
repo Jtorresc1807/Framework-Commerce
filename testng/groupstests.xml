@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Nop Commerce">
+    <test name="Functional Test">
+        <groups>
+            <run>
+                <include name="Functional"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.commerce.tests.LoginTest"></class>
+
+        </classes>
+    </test>
+    <test name="Regression Test">
+        <groups>
+            <run>
+                <include name="Regression"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.commerce.tests.RegisterTest"></class>
+
+        </classes>
+    </test>
+    <test name="Integration Test">
+        <groups>
+            <run>
+                <include name="Integration"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.commerce.tests.OrderTest"></class>
+        </classes>
+    </test>
+</suite>

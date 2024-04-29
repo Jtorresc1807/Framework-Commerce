@@ -1,0 +1,32 @@
+{
+  "register":[
+    {
+      "firstname": "Yerika",
+      "lastname": "Sanchez",
+      "email": "ysan@hotmail.com",
+      "company": "AUDI",
+      "password": "&J*$W23K^g5R",
+      "confirmpassword": "&J*$W23K^g5R",
+      "message": "Your registration completed"
+    },
+    {
+      "firstname": "Matias",
+      "lastname": "Alberto",
+      "email": "malbgmail.qon",
+      "company": "IBM",
+      "password": "&J*$W23K^g5R",
+      "confirmpassword": "&J*$W23K^g5R",
+      "message": "Wrong email"
+    },
+    {
+      "firstname": "Mila",
+      "lastname": "Fox",
+      "email": "mfox@gmail.qon",
+      "company": "ESPN",
+      "password": "&J123",
+      "confirmpassword": "&J123",
+      "message": "Password must meet the following rules:\nmust have at least 6 characters"
+    }
+  ]
+}
+

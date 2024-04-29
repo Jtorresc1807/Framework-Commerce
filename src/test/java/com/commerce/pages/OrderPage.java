@@ -1,6 +1,8 @@
 package com.commerce.pages;
 
+import com.commerce.logs.Log;
 import com.commerce.tests.BaseTest;
+import io.qameta.allure.Allure;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -81,6 +83,8 @@ public class OrderPage extends BasePage {
 
     //Methods
     public void addProductsToCart(){
+        Log.info("Add Products To Cart on Nop Commerce Web with Data Provider.");
+        Allure.step("Add Products To Cart on Nop Commerce Web with Data Provider.");
         click(btnCategoriesCompu);
         click(btnNotebooks);
         click(imgHPEnvy);
@@ -89,16 +93,16 @@ public class OrderPage extends BasePage {
         click(btnCellphones);
         click(imgCellNokia);
         click(btnAddToCarCellNokia);
-
         click(btnCategoriesApparel);
         click(btnShoes);
         click(imgShoesNike);
         click(btnAddToShoesNike);
-
         click(btnClose);
     }
 
     public void removeProductsToCart(){
+        Log.info("Remove Products To Cart on Nop Commerce Web with Data Provider.");
+        Allure.step("Remove Products To Cart on Nop Commerce Web with Data Provider.");
         click(btnShoppingCart);
         click(btnShoppingCartRemove);
         click(btnShoppingCartRemove);
@@ -106,6 +110,8 @@ public class OrderPage extends BasePage {
     }
 
     public void increaseQuantityProducts(){
+        Log.info("Increase Quantity Products To Cart on Nop Commerce Web with Data Provider.");
+        Allure.step("Increase Quantity Products To Cart on Nop Commerce Web with Data Provider.");
         click(btnShoppingCart);
         clear(inpQuantity);
         type(inpAddQuantity, "5");
@@ -114,18 +120,25 @@ public class OrderPage extends BasePage {
 
     public void reduceQuantityProducts(){
         //click(btnShoppingCart);
+        Log.info("Reduce Quantity Products To Cart on Nop Commerce Web with Data Provider.");
+        Allure.step("Reduce Quantity Products To Cart on Nop Commerce Web with Data Provider.");
         clear(inpQuantity);
         type(inpAddQuantity, "2");
         click(btnUpdateShopCart);
     }
 
     public void orderProductsCreation() {
+        Log.info("order Products To Cart on Nop Commerce Web with Data Provider.");
+        Allure.step("Order Products To Cart on Nop Commerce Web with Data Provider.");
         click(btnShoppingCart);
         click(inpAgreeTerms);
         click(btnCheckout);
     }
 
     public void orderCkechoutBillingAddress() {
+        Log.info("Fill out form to order Ckechout Billing Address on Nop Commerce Web with Data Provider.");
+        Allure.step("Fill out form to order Ckechout Billing Address on Nop Commerce Web with Data Provider.");
+
         wait = new WebDriverWait(driver, Duration.ofSeconds(TIME_OUT));
         WebElement selcountry =  wait.until(ExpectedConditions.presenceOfElementLocated(By.id("BillingNewAddress_CountryId")));
         assertTrue(selcountry.getAttribute("data-trigger").toString().contains("country"));
@@ -143,6 +156,8 @@ public class OrderPage extends BasePage {
     }
 
     public void orderCkechoutShippinAndPaymentgMethod() {
+        Log.info("Fill out form to order Ckechout Shippin And Payment Method on Nop Commerce Web with Data Provider.");
+        Allure.step("Fill out form to order Ckechout Shippin And Payment Method on Nop Commerce Web with Data Provider.");
         click(radNextDayAir);
         click(btnContinueShippingMethod);
         click(radCreditCard);
@@ -150,6 +165,8 @@ public class OrderPage extends BasePage {
     }
 
     public void orderCkechoutPaymentInformation() {
+        Log.info("Fill out form to order Ckechout Payment Information on Nop Commerce Web with Data Provider.");
+        Allure.step("Fill out form to order Ckechout Payment Information on Nop Commerce Web with Data Provider.");
         WebElement creditcard = driver.findElement(selCreditCard);
         Select cbcreditcard = new Select(creditcard);
         cbcreditcard.selectByValue("MasterCard");
@@ -165,8 +182,5 @@ public class OrderPage extends BasePage {
         click(btnContinuePaymentInformation);
         click(btnConfirmOrder);
     }
-
-
-
 
 }

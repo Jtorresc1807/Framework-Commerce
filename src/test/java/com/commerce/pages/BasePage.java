@@ -48,7 +48,7 @@ public class BasePage {     //Se crean los metodos para reutilizar en todo el pr
         find(element).submit();
     }
 
-    public void clear(By element){                 //Metodo para
+    public void clear(By element){                 //Metodo para limpiar los input
         find(element).clear();
     }
 

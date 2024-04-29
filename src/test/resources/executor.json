@@ -1,0 +1,9 @@
+{
+  "reportName": "Report Test Commerce",
+  "buildOrder": 1234,
+  "reportUrl": "http://192.168.1.5:59808/index.html#",
+  "name": "Jenkins",
+  "type": "jenkins",
+  "buildName": "allure-report_deploy#1234",
+  "buildUrl": "https://www.jenkins.io/"
+}

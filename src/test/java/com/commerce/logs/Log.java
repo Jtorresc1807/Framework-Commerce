@@ -12,18 +12,18 @@ public class Log {
     }
 
     public static void warn(String message) {
-        Log.info(message);
+        Log.warn(message);
     }
 
     public static void error(String message) {
-        Log.info(message);
+        Log.error(message);
     }
 
     public static void fatal(String message) {
-        Log.info(message);
+        Log.fatal(message);
     }
 
     public static void debug(String message) {
-        Log.info(message);
+        Log.debug(message);
     }
 }

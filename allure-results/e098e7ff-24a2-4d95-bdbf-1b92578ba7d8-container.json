@@ -1,0 +1,1 @@
+{"uuid":"e098e7ff-24a2-4d95-bdbf-1b92578ba7d8","name":"Nop Commerce","children":["17f10ca2-019d-406b-889f-5d67fd6b9142"],"befores":[{"name":"startReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713238489563,"stop":1713238489894}],"afters":[],"start":1713238489517,"stop":1713238552858}
